@@ -1,4 +1,4 @@
-# GitHub Pages Demo
+# GitHub Pages Demo. SNES > N64 (by a long shot like it's not even close)
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
